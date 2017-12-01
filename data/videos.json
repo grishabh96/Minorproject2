@@ -1,0 +1,5 @@
+{
+	"intent":"videos" ,
+	         "msg":["videos","video","play videos","open videos","get videos","search videos","latest videos","show videos","I want some videos","get me some videos","videos plz"],
+	         "response":["videos"]
+}

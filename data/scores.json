@@ -1,0 +1,5 @@
+{
+	"intent":"scores" ,
+  	         "msg":["get live scores","cricket scores","get scores","score","scores","live scores","live score","view scores","show live score","what's score?","cricket matches","check score","check score","score live","tell score"],
+	         "response":["scores"]
+}

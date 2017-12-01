@@ -1,0 +1,5 @@
+{
+	"intent":"help" ,
+	         "msg":["get help","help","help me","i feel stuck","save me","i need help","unable to understand","please help","i am stuck","stucked,"plz help"],
+	         "response":["help"]
+}

@@ -1,0 +1,5 @@
+{
+	"intent":"horoscope" ,
+	         "msg":["horoscope","horoscopes","my horoscope","today's horoscope","horoscope for the day","tell my horoscope","show horoscope","get horoscope","open horoscope","view horoscope"],
+	         "resopnse":["horoscope"]
+}

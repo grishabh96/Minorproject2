@@ -1,0 +1,5 @@
+{
+	"intent":"music" ,
+  	         "msg":["music","good music","want hear good music","nice music for me" ],
+	         "response":["music"]
+}

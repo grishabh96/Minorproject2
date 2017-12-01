@@ -1,0 +1,5 @@
+{
+	"intent":"dictionary" ,
+	         "msg":["dictionary","search","search words","open dictionary","find words"],
+	         "response":["dictionary"]
+}

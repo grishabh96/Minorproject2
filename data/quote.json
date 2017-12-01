@@ -1,0 +1,5 @@
+{
+	"intent":"quote" ,
+  	         "msg":["quote","quotes","good quote","good quotes","tell me quote","quote plz"],
+	         "response":["quote"]
+}

@@ -1,0 +1,5 @@
+{
+	"intent":"zomato",
+	         "msg":["restaurant","restaurants near me","i'm hungry","what's cooking","food joints","breakfast","lunch","dinner","where can i find food?","i feel hungr","food","food near me","show me restaurants near me","plz show restaurants near me","show me good restaurants","good restaurants near me"],
+	         "response":["zomato"]
+}

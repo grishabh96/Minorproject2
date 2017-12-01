@@ -1,0 +1,5 @@
+{
+	"intent":"news" ,
+	         "msg":["news","read news","get news","today's headlines","newspaper","show news","show headlines","open news","view news"],
+	         "response":["news"]
+}

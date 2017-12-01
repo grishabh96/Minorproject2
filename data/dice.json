@@ -1,0 +1,5 @@
+{
+	"intent":"dice" ,
+	         "msg":["dice","roll a dice","dice roll","throw a dice"],
+	         "response":["dice"]
+}

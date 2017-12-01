@@ -1,0 +1,5 @@
+{
+	"intent":"coin" ,
+	         "msg":["coin","coin toss","toss coin"],
+	         "response":["coin"]
+}

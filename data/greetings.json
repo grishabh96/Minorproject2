@@ -1,0 +1,7 @@
+{
+	"intent":"greetings" ,
+		"msg":["dice1","hello","hi","hii","heyy","hola","howdy","whatsup","morning","afternoon","evening","night","greetings","yo","sup","supp","wassup","fine","okay","ok"],
+		"response":["zomato"]
+
+}
+
